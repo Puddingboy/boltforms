@@ -62,7 +62,7 @@ form submission.
 
 ##### BoltFormsEvents::SUBMISSION_PROCESS_FEEDBACK
 
-The internal listener for this event handles the saving of BoltForms feddback
+The internal listener for this event handles the saving of BoltForms feedback
 notices to the user's session
 
 
