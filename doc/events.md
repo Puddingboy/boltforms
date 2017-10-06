@@ -56,7 +56,7 @@ records, either to a ContentType or standard database table.
 
 ##### BoltFormsEvents::SUBMISSION_PROCESS_EMAIL
 
-The internal listener for this event handles the disspacthing of emails from 
+The internal listener for this event handles the dispatching of emails from 
 form submission.  
 
 
