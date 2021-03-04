@@ -136,6 +136,7 @@ e.g.:
         files:      my_sub_directory/file_browser.twig
         form_theme: my_sub_directory/_form_theme.twig
         messages:   my_sub_directory/_messages.twig
+        recaptcha:  my_sub_directory/recaptcha.twig
 ```
 
 You can override the form templates for all your forms in the top of config. To do this, 
