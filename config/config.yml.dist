@@ -39,6 +39,8 @@ csrf: true
 #    email: extensions/boltforms/email.twig
 #    subject: extensions/boltforms/subject.twig
 #    files: extensions/boltforms/file_browser.twig
+#    form_theme: extensions/boltforms/_form_theme.twig
+#    recaptcha: extensions/boltforms/_recaptcha.twig
 
 ## reCAPTCHa set up
 #
